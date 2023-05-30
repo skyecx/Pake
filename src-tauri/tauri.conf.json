@@ -19,7 +19,7 @@
     }
   },
   "build": {
-    "withGlobalTauri": true,
+    "withGlobalTauri": false,
     "devPath": "../dist",
     "distDir": "../dist",
     "beforeBuildCommand": "",
